@@ -1,0 +1,8 @@
+Sales Summary
+----------------------------
+ Total Sales: 44,98 €
+
+ Details:
+  Classic Italian: 12,99 €
+  Veggie: 14,99 €
+  Pepperoni and Chese: 17,00 €
